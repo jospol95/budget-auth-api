@@ -1,0 +1,11 @@
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/bin/Debug/netstandard2.0/AuthorizationAPI.Application.deps.json
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/bin/Debug/netstandard2.0/AuthorizationAPI.Application.dll
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/bin/Debug/netstandard2.0/AuthorizationAPI.Application.pdb
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/bin/Debug/netstandard2.0/AuthorizationAPI.Domain.dll
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/bin/Debug/netstandard2.0/AuthorizationAPI.Domain.pdb
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/obj/Debug/netstandard2.0/AuthorizationAPI.Application.csprojAssemblyReference.cache
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/obj/Debug/netstandard2.0/AuthorizationAPI.Application.AssemblyInfoInputs.cache
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/obj/Debug/netstandard2.0/AuthorizationAPI.Application.AssemblyInfo.cs
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/obj/Debug/netstandard2.0/AuthorizationAPI.Application.csproj.CopyComplete
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/obj/Debug/netstandard2.0/AuthorizationAPI.Application.dll
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Application/obj/Debug/netstandard2.0/AuthorizationAPI.Application.pdb

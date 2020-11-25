@@ -1,0 +1,8 @@
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Domain/bin/Debug/netstandard2.0/AuthorizationAPI.Domain.deps.json
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Domain/bin/Debug/netstandard2.0/AuthorizationAPI.Domain.dll
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Domain/bin/Debug/netstandard2.0/AuthorizationAPI.Domain.pdb
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Domain/obj/Debug/netstandard2.0/AuthorizationAPI.Domain.csprojAssemblyReference.cache
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Domain/obj/Debug/netstandard2.0/AuthorizationAPI.Domain.AssemblyInfoInputs.cache
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Domain/obj/Debug/netstandard2.0/AuthorizationAPI.Domain.AssemblyInfo.cs
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Domain/obj/Debug/netstandard2.0/AuthorizationAPI.Domain.dll
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Domain/obj/Debug/netstandard2.0/AuthorizationAPI.Domain.pdb

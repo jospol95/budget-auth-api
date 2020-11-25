@@ -1,0 +1,15 @@
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/bin/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.deps.json
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/bin/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.runtimeconfig.json
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/bin/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.runtimeconfig.dev.json
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/bin/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.dll
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/bin/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.pdb
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/bin/Release/netcoreapp3.1/AuthorizationAPI.Application.dll
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/bin/Release/netcoreapp3.1/AuthorizationAPI.Domain.dll
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/bin/Release/netcoreapp3.1/AuthorizationAPI.Application.pdb
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/bin/Release/netcoreapp3.1/AuthorizationAPI.Domain.pdb
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/obj/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.csprojAssemblyReference.cache
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/obj/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/obj/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.AssemblyInfo.cs
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/obj/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.csproj.CopyComplete
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/obj/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.dll
+/Users/josep/Desktop/Projects/Angular-net-core account integration/NETCoreWebApi/AuthorizationAPI.Infrastructure/obj/Release/netcoreapp3.1/AuthorizationAPI.Infrastructure.pdb

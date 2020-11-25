@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.Staging.json" t="Include" />
+      <e p="AuthorizationAPI.csproj" t="IncludeRecursive" />
+      <e p="AuthorizationAPI.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="AuthController.cs" t="Include" />
+        <e p="BaseController.cs" t="Include" />
+        <e p="UserController.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Release" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="AuthorizationAPI.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$/../AuthorizationAPI.Application" t="IncludeRecursive">
+      <e p="AuthorizationAPI.Application.csproj" t="IncludeRecursive" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CQRS" t="Include">
+        <e p="Commands" t="Include">
+          <e p="Base" t="Include">
+            <e p="UserCommandBase.cs" t="Include" />
+          </e>
+          <e p="LoginUserCommand.cs" t="Include" />
+          <e p="RegisterUserCommand.cs" t="Include" />
+        </e>
+        <e p="Queries" t="Include">
+          <e p="GetUserDtoQuery.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DependencyInjection.cs" t="Include" />
+      <e p="Exceptions" t="Include">
+        <e p="EmailAlreadyRegisteredException.cs" t="Include" />
+        <e p="EmailAndOrPasswordIncorrectException.cs" t="Include" />
+        <e p="EmailNotRegisteredException.cs" t="Include" />
+        <e p="FieldsMissingException.cs" t="Include" />
+      </e>
+      <e p="Interfaces" t="Include">
+        <e p="ISecurityService.cs" t="Include" />
+        <e p="ITokenService.cs" t="Include" />
+        <e p="IUserService.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Enums" t="Include">
+          <e p="AuthenticationTypeEnum.cs" t="Include" />
+        </e>
+        <e p="UserDto.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Release" t="Include">
+          <e p="netstandard2.0" t="Include">
+            <e p="AuthorizationAPI.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="$PROJECT_DIR$/../AuthorizationAPI.Domain" t="IncludeRecursive">
+      <e p="AuthorizationAPI.Domain.csproj" t="IncludeRecursive" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Exceptions" t="Include" />
+      <e p="Models" t="Include">
+        <e p="AuthenticationType.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Release" t="Include">
+          <e p="netstandard2.0" t="Include">
+            <e p="AuthorizationAPI.Domain.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="$PROJECT_DIR$/../AuthorizationAPI.Infrastructure" t="IncludeRecursive">
+      <e p="ApplicationSettings.cs" t="Include" />
+      <e p="AuthorizationAPI.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DependencyInjection.cs" t="Include" />
+      <e p="JwtSettings.cs" t="Include" />
+      <e p="Migrations" t="Include">
+        <e p="20201122065026_migrationSql.cs" t="Include" />
+        <e p="20201122065026_migrationSql.Designer.cs" t="Include" />
+        <e p="20201122065413_migrationAuthTypes.cs" t="Include" />
+        <e p="20201122065413_migrationAuthTypes.Designer.cs" t="Include" />
+        <e p="AuthDbContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Release" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="AuthorizationAPI.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Persistence" t="Include">
+        <e p="AuthDbContext.cs" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="SecurityService.cs" t="Include" />
+        <e p="TokenService.cs" t="Include" />
+        <e p="UserService.cs" t="Include" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_AuthorizationAPI.1839491454.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/ide" t="IncludeRecursive" />
+  </component>
+</project>
