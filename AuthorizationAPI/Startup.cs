@@ -88,6 +88,8 @@ namespace AuthorizationAPI
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
 
+            app.UseCors(MyAllowSpecificOrigins);
+
             if (env.IsDevelopment())
             {
                 app.UseSwagger();
@@ -105,7 +107,6 @@ namespace AuthorizationAPI
 
             app.UseRouting();
             
-            app.UseCors(MyAllowSpecificOrigins);
             
             app.UseAuthentication();
             app.UseAuthorization();
