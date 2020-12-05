@@ -43,7 +43,7 @@ namespace AuthorizationAPI
                 options.AddPolicy(name: MyAllowSpecificOrigins,
                     builder =>
                     {
-                        builder.WithOrigins(Environment.GetEnvironmentVariable("SPA_APP_URL"))
+                        builder.WithOrigins("https://budgetappauth-25c31.firebaseapp.com/")
                             .AllowAnyHeader()
                             .AllowAnyMethod();
                     });
