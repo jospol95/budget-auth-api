@@ -43,8 +43,7 @@ namespace AuthorizationAPI
                 options.AddPolicy(name: MyAllowSpecificOrigins,
                     builder =>
                     {
-                        builder.WithOrigins(
-                            "http://localhost:4401")
+                        builder.WithOrigins(Environment.GetEnvironmentVariable("SPA_APP_URL"))
                             .AllowAnyHeader()
                             .AllowAnyMethod();
                     });
@@ -91,7 +90,13 @@ namespace AuthorizationAPI
 
             if (env.IsDevelopment())
             {
+                app.UseSwagger();
+                app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1"); });
                 app.UseDeveloperExceptionPage();
+            }
+            else
+            {
+                app.UseReverseProxyHttpsEnforcer();
             }
             
             app.UseHttpsRedirection();
@@ -103,9 +108,6 @@ namespace AuthorizationAPI
             app.UseAuthentication();
             app.UseAuthorization();
             
-            app.UseSwagger();
-            app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1"); });
-
 
             app.UseEndpoints(endpoints =>
             {
